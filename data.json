@@ -1,42 +1,42 @@
 {
- "synced": "Oct 22, 03:31 UTC",
+ "synced": "Oct 22, 04:32 UTC",
  "writers": [
   {
    "name": "Dawid",
    "photo": "dawid.jpg",
-   "winners": 1,
+   "winners": 0,
    "live": 8,
-   "roas": 1.09,
+   "roas": 1.07,
    "hook": 0.0,
-   "share": 0.635,
-   "delta": "0"
+   "share": 0.684,
+   "delta": "+5"
+  },
+  {
+   "name": "Lan",
+   "photo": "lan.jpg",
+   "winners": 1,
+   "live": 5,
+   "roas": 0.76,
+   "hook": 0.0,
+   "share": 0.179,
+   "delta": "+3"
   },
   {
    "name": "Adam",
    "photo": "adam.jpg",
    "winners": 0,
    "live": 5,
-   "roas": 1.01,
+   "roas": 0.85,
    "hook": 0.0,
-   "share": 0.218,
-   "delta": "0"
-  },
-  {
-   "name": "Lan",
-   "photo": "lan.jpg",
-   "winners": 0,
-   "live": 3,
-   "roas": 0.58,
-   "hook": 0.0,
-   "share": 0.147,
-   "delta": "0"
+   "share": 0.137,
+   "delta": "-8"
   }
  ],
  "editors": [],
  "hall_of_fame": {
-  "ad": "AURORA164",
+  "ad": "AURORA170",
   "writer": "Dawid",
-  "roas": 1.51,
+  "roas": 1.46,
   "spend_note": "best ROAS at scale this season"
  }
 }
