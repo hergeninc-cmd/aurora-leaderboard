@@ -1,5 +1,5 @@
 {
- "synced": "Oct 24, 05:28 UTC",
+ "synced": "Oct 24, 06:33 UTC",
  "writers": [
   {
    "name": "Lan",
@@ -9,7 +9,7 @@
    "roas": 0.94,
    "hook": 0.0,
    "share": 0.493,
-   "delta": "+1"
+   "delta": "0"
   },
   {
    "name": "Adam",
@@ -19,7 +19,7 @@
    "roas": 0.7,
    "hook": 0.0,
    "share": 0.4,
-   "delta": "-1"
+   "delta": "0"
   },
   {
    "name": "Dawid",
@@ -36,7 +36,7 @@
  "hall_of_fame": {
   "ad": "LC_AD22",
   "writer": "Lan",
-  "roas": 2.31,
+  "roas": 2.3,
   "spend_note": "best ROAS at scale this season"
  }
 }
