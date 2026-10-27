@@ -1,5 +1,5 @@
 {
- "synced": "Oct 27, 11:35 UTC",
+ "synced": "Oct 27, 12:42 UTC",
  "writers": [
   {
    "name": "Dawid",
@@ -18,7 +18,7 @@
    "live": 19,
    "roas": 0.92,
    "hook": 0.0,
-   "share": 0.388,
+   "share": 0.389,
    "delta": "0"
   },
   {
@@ -36,7 +36,7 @@
  "hall_of_fame": {
   "ad": "LC_AD6",
   "writer": "Lan",
-  "roas": 1.97,
+  "roas": 1.95,
   "spend_note": "best ROAS at scale this season"
  }
 }
