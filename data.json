@@ -1,12 +1,12 @@
 {
- "synced": "Nov 03, 11:48 UTC",
+ "synced": "Nov 03, 12:57 UTC",
  "writers": [
   {
    "name": "Dawid",
    "photo": "dawid.jpg",
    "winners": 1,
    "live": 9,
-   "roas": 0.75,
+   "roas": 0.74,
    "hook": 0.0,
    "share": 0.572,
    "delta": "0"
@@ -25,8 +25,8 @@
    "name": "Lan",
    "photo": "lan.jpg",
    "winners": 1,
-   "live": 16,
-   "roas": 0.67,
+   "live": 17,
+   "roas": 0.68,
    "hook": 0.0,
    "share": 0.164,
    "delta": "0"
