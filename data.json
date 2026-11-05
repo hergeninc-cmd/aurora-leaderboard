@@ -1,35 +1,35 @@
 {
- "synced": "Nov 05, 04:57 UTC",
+ "synced": "Nov 05, 05:58 UTC",
  "writers": [
-  {
-   "name": "Lan",
-   "photo": "lan.jpg",
-   "winners": 0,
-   "live": 15,
-   "roas": 0.78,
-   "hook": 0.0,
-   "share": 0.572,
-   "delta": "0"
-  },
-  {
-   "name": "Adam",
-   "photo": "adam.jpg",
-   "winners": 0,
-   "live": 10,
-   "roas": 0.5,
-   "hook": 0.0,
-   "share": 0.267,
-   "delta": "0"
-  },
   {
    "name": "Dawid",
    "photo": "dawid.jpg",
    "winners": 1,
    "live": 9,
-   "roas": 0.68,
+   "roas": 0.76,
    "hook": 0.0,
-   "share": 0.161,
-   "delta": "0"
+   "share": 0.485,
+   "delta": "+32"
+  },
+  {
+   "name": "Lan",
+   "photo": "lan.jpg",
+   "winners": 0,
+   "live": 15,
+   "roas": 0.64,
+   "hook": 0.0,
+   "share": 0.411,
+   "delta": "-16"
+  },
+  {
+   "name": "Adam",
+   "photo": "adam.jpg",
+   "winners": 0,
+   "live": 7,
+   "roas": 0.36,
+   "hook": 0.0,
+   "share": 0.104,
+   "delta": "-16"
   }
  ],
  "editors": [],
