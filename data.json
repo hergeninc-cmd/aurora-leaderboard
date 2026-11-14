@@ -1,5 +1,5 @@
 {
- "synced": "Nov 14, 05:48 UTC",
+ "synced": "Nov 14, 06:56 UTC",
  "writers": [
   {
    "name": "Adam",
@@ -9,7 +9,7 @@
    "roas": 0.93,
    "hook": 0.0,
    "share": 0.514,
-   "delta": "+41"
+   "delta": "0"
   },
   {
    "name": "Dawid",
@@ -19,7 +19,7 @@
    "roas": 0.95,
    "hook": 0.0,
    "share": 0.363,
-   "delta": "-11"
+   "delta": "0"
   },
   {
    "name": "Lan",
@@ -29,7 +29,7 @@
    "roas": 0.79,
    "hook": 0.0,
    "share": 0.123,
-   "delta": "-30"
+   "delta": "0"
   }
  ],
  "editors": [],
